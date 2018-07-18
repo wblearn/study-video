@@ -23,7 +23,7 @@ permalink: /
     <a href='{{ site.baseurl }}{{ video.url }}'>
       <h3>{{ video.title }}</h3>
       <time>{{ video.date | date: '%d %B %Y'}}</time>
-      <img src='http://img.youtube.com/vi/{{ video.youtube_id }}/hqdefault.jpg' />
+      <img src='/study-video/assets/img/bili_cover/{{ video.cover_id }}' />
     </a>
   </li>
   {% endfor %}
@@ -32,8 +32,8 @@ permalink: /
 <nav>
   <ul>
     <li>
-      <a href='{{ site.facebook }}' target='_blank'>
-      <img src='{{ site.baseurl }}/assets/img/fb.png' />
+      <a href='{{ site.weibo }}' target='_blank'>
+      <img src='{{ site.baseurl }}/assets/img/weibo.png' />
       </a>
     </li>
     <li>
