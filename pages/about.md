@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Study With Me](https://wblearn.github.io/study-video/assets/img/bili_cover/timg.jpg)
+<img src="/study-video/assets/img/bili_cover/timg.jpg"  width="100%" height="300">
 
 [关于本站的一些说明](https://wblearn.github.io/study-video/instruction/2018/01/01/first.html)
 
