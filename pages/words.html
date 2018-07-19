@@ -9,7 +9,7 @@ permalink: /words/
     <a href='{{ site.baseurl }}{{ post.url }}'>
       <h3>{{ post.title }}</h3>
       <time>{{ post.date | date: '%d %B %Y'}}</time>
-      <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+      <p>{{ post.content | strip_html | slice: 0,50 }}</p>
     </a>
   </li>
   {% endfor %}
