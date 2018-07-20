@@ -23,3 +23,24 @@ permalink: /about/
 qq: 1275660493<br/>
 邮箱：1275660493@qq.com<br/>
 
+{% if site.livere_uid %}
+<!-- livere 评论框 start -->
+<div class="comment" style="position: relative;">
+    <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
+</div>
+<!-- livere 评论框 end -->
+
+<!-- livere 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    (function(d, s) {
+        var j, e = d.getElementsByTagName(s)[0];
+        if (typeof LivereTower === 'function') { return; }
+        j = d.createElement(s);
+        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+        j.async = true;
+        e.parentNode.insertBefore(j, e);
+    })(document, 'script');
+</script>
+<!-- livere 公共JS代码 end -->
+{% endif %}
+
