@@ -1,8 +1,8 @@
-name: Study Video
-description: wblearn,Study Video.
-keyword: "wblearn, @wblearn, study video,studyaccount, study with me, 个人网站, 互联网"
+name: study
+description: wblearn,studywithme,study video.
+keyword: "wblearn, @wblearn,studywithme,study video,studyaccount, study with me, 个人网站, 互联网"
 url: 'https://wblearn.github.io/study-video/'
-baseurl: '/study-video'
+baseurl: '/studywithme'
 email: 1275660493@qq.com
 weibo: https://weibo.com/5717080324
 twitter: https://twitter.com/wblearn1
