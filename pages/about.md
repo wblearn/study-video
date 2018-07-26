@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<img src="/study-video/assets/img/bili_cover/timg.jpg"  width="100%" height="300">
+<h1 style="color: #ff9999;letter-spacing: 0;text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135">
+<center>study with me</center >
+</h1>
 
 [关于本站的一些说明](https://wblearn.github.io/study-video/instruction/2018/01/01/first.html)
 
