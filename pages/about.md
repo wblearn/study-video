@@ -12,13 +12,12 @@ permalink: /about/
 如果你很不小心进来本站，然后又很不小心地进来了这个页面，那么证明你对我这人或这个网站有点兴趣，如果我表错情了，这不是你的错，我应该检讨一下为什么这个页面的链接这么容易被人点到；如果我没错，那么，我应该暗自 YY 一下，可能又有一个小朋友稀饭我鸟，~\(≧▽≦)/~啦啦啦……
 
 
-如果你想更加了解我或者了解此站，你可以关注一下我的 [新浪微博](https://weibo.com/5717080324)，我会偶尔或不怎么偶尔或非常偶尔地在它们上面没头没脑地乱说话的。当然，网站有时会很慢很慢非常慢，阿弥陀佛……阿门……没刷出新内容可别老怪我，理解万岁……
+如果你想更加了解我或者了解此站，你可以关注一下我的 [新浪微博](https://weibo.com/5717080324)或[站长动态](https://wblearn.github.io/study-video/instruction/2018/08/24/wblearn.html)，我会偶尔或不怎么偶尔或非常偶尔地在它们上面没头没脑地乱说话的。当然，网站有时会很慢很慢非常慢，阿弥陀佛……阿门……没刷出新内容可别老怪我，理解万岁……
 
 好吧，你没事就回[Videos页](https://wblearn.github.io/study-video/videos/)去转转吧，总比在这里瞎看没营养的About要强…
 
 **study video官方QQ群：532226495( 新群，先进来的同学送管理员：)**<br/>
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2e6ed9e5e94215f06a2e4155aad9bb891dcac047a79beba6574ea83d70476e56"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="study video" title="study video"></a>
-
 
 **联系方式：**<br/>
 新浪微博: [https://weibo.com/5717080324](https://weibo.com/5717080324)<br/>
