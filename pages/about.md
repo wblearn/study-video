@@ -16,6 +16,8 @@ permalink: /about/
 
 好吧，你没事就回[Videos页](https://wblearn.github.io/study-video/videos/)去转转吧，总比在这里瞎看没营养的About要强…
 
+**study video官方QQ群：532226495( 新群，先进来的同学送管理员：)**<br/>
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2e6ed9e5e94215f06a2e4155aad9bb891dcac047a79beba6574ea83d70476e56"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="study video" title="study video"></a>
 
 
 **联系方式：**<br/>
