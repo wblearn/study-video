@@ -1,5 +1,5 @@
 ---
-title: 【中英字幕/john fish】觉得自己效率太低？试试哈佛学霸小哥哥的方法
+title: 【中英字幕/john fish】觉得自己效率太低？
 aid: 31134279
 cover_id: 4aad2f9561614114f4443aa6ba9687ebf3d74d41.jpg
 date: 2018-09-07
