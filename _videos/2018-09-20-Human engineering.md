@@ -1,5 +1,5 @@
 ---
-title: 【中英字幕】UC伯克利CS系学霸：为什么缺失人文的工程学很愚蠢？
+title: 【中英字幕/ Nikhil Reddy】为什么缺失人文的工程学很愚蠢？
 aid: 28445153
 cover_id: cd112a0cb72560d91e29f5f3586fcd8b9855b842.jpg
 date: 2018-09-20
