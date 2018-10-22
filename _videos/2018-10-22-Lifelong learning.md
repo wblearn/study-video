@@ -1,5 +1,5 @@
 ---
-title: 【中英字幕】当你发现同学既天才又努力时，如何度过大学焦虑期？
+title: 当你发现同学既天才又努力时，如何度过大学焦虑期？
 aid: 34208210
 cover_id: avsas_i181020tx3i40uxxrw36skn9h4hrpvqb_0028.jpg
 date: 2018-10-22
