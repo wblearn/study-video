@@ -1,5 +1,5 @@
 ---
-title: 【中英字幕/john fish】哈佛学霸小哥哥：该为期末考试而复习了！
+title: 【中英字幕/john fish】该为期末考试而复习了！
 aid: 36086333
 cover_id: 3e23f21fd9d773de9f442afd04999e1808085942.jpg
 date: 2018-11-20
