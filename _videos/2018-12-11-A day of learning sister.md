@@ -1,7 +1,7 @@
 ---
 title: 与UBC计算机系漂亮学姐过一天
 aid: 37618869
-cover_id:4e26cbb0123e03c0987af1c91d64520135f31717.jpg
+cover_id: 4e26cbb0123e03c0987af1c91d64520135f31717.jpg
 date: 2018-12-11
 tags: [studywithme]
 ---
