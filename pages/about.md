@@ -25,6 +25,9 @@ permalink: /about/
 {% if site.livere_uid %}
 <!-- livere 评论框 start -->
 <div class="comment" style="position: relative;">
+	<style>
+		#taboola-livere { display: none;}
+	</style>
     <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
 </div>
 <!-- livere 评论框 end -->
@@ -42,7 +45,4 @@ permalink: /about/
 </script>
 <!-- livere 公共JS代码 end -->
 {% endif %}
-<style>
-		#taboola-livere { display: none;}
-	</style>
 
