@@ -24,10 +24,8 @@ permalink: /about/
 
 {% if site.livere_uid %}
 <!-- livere 评论框 start -->
-<style>
-		#taboola-livere { display: none;}
-	</style>
-<div class="comment">
+<div class="comment" style="position: relative;">
+	
     <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}"></div>
 </div>
 <!-- livere 评论框 end -->
